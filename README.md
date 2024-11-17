@@ -24,7 +24,7 @@ https://roadmap.sh/golang
 
 https://go.dev/play/
 
-### 🎞️ Videos
+###🎬 Videos
 https://www.youtube.com/watch?v=WiGU_ZB-u0w&list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg
 
 https://www.youtube.com/watch?v=_MkQLDMak-4&list=PL5aY_NrL1rjucQqO21QH8KclsLDYu1BIg
