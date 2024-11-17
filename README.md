@@ -1,4 +1,5 @@
 [![My Skills](https://skillicons.dev/icons?i=golang,)](#)
+
 A linguagem Go, também conhecida como Golang, é uma linguagem de programação criada pela Google em 2007 e lançada oficialmente em 2009. Go foi projetada por Robert Griesemer, Rob Pike e Ken Thompson, com o objetivo de ser eficiente, simples, e moderna, com ênfase na produtividade dos desenvolvedores.
 
 ## Principais Características da Linguagem Go:
