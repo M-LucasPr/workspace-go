@@ -18,6 +18,8 @@ A linguagem Go, também conhecida como Golang, é uma linguagem de programação
 ### Leitura
 https://quii.gitbook.io/learn-go-with-tests
 
+https://larien.gitbook.io/aprenda-go-com-testes/main/primeiros-passos-com-go/ola-mundo
+
 https://roadmap.sh/golang
 
 https://go.dev/play/
