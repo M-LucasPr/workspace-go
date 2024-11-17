@@ -15,7 +15,7 @@ A linguagem Go, também conhecida como Golang, é uma linguagem de programação
 - Ferramentas e Utilitários: Muitos projetos de infraestrutura de software, como o Docker e o Kubernetes, são escritos em Go.
 
 ## Fontes:
-### Leitura
+### 📖 Leitura
 https://quii.gitbook.io/learn-go-with-tests
 
 https://larien.gitbook.io/aprenda-go-com-testes/main/primeiros-passos-com-go/ola-mundo
@@ -24,7 +24,7 @@ https://roadmap.sh/golang
 
 https://go.dev/play/
 
-### Videos
+### 🎞️ Videos
 https://www.youtube.com/watch?v=WiGU_ZB-u0w&list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg
 
 https://www.youtube.com/watch?v=_MkQLDMak-4&list=PL5aY_NrL1rjucQqO21QH8KclsLDYu1BIg
