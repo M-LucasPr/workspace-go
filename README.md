@@ -28,6 +28,8 @@ https://go.dev/play/
 https://www.youtube.com/watch?v=WiGU_ZB-u0w&list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg
 
 https://www.youtube.com/watch?v=_MkQLDMak-4&list=PL5aY_NrL1rjucQqO21QH8KclsLDYu1BIg
+
+https://www.youtube.com/watch?v=bOlnyWOjVIo&list=PLHPgIIn9ls6-1l7h8RUClMKPHi4NoKeQF
 ### 👇🏻 Repositorios
 https://github.com/practical-tutorials/project-based-learning
 
